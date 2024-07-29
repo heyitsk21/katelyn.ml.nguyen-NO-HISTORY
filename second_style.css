@@ -76,7 +76,8 @@ a:hover {
   max-width: 30vw;
   /* flex-wrap: wrap; */
   font-size: 20px;
-  max-width: min-content;
+  /* max-width: min-content; */
+  min-width: 300px;
   flex-basis: 14.285714285%;
   padding: 10px;
   /* max-width: 200px; */
