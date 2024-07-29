@@ -259,3 +259,7 @@ button {
   width: 90%;
   text-align: left;
 }
+
+.body_and_eiffel_foreground {
+  min-width: 1000px;
+}
